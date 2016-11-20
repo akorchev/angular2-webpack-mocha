@@ -1,7 +1,6 @@
 import { getTestBed, TestBed } from '@angular/core/testing';
 import { AppComponent } from './app.component';
 import { By } from '@angular/platform-browser';
-import { spy } from 'sinon';
 
 for (var i = 0; i < 10; i++) {
   describe(`AppComponent ${i}`, () => {

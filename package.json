@@ -56,7 +56,6 @@
     "rimraf": "^2.5.2",
     "sinon": "^2.0.0-pre.4",
     "style-loader": "^0.13.1",
-    "ts-node": "^1.7.0",
     "typescript": "^2.0.3",
     "webpack": "^1.13.0",
     "webpack-dev-server": "^1.14.1",

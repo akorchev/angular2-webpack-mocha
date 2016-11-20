@@ -11,14 +11,6 @@ for (var i = 0; i < 10; i++) {
       });
     });
 
-    it('should set h1 of document', () => {
-      const fixture = TestBed.createComponent(AppComponent);
-
-      const h1 = fixture.debugElement.query(By.css('h1'));
-
-      expect(h1.nativeElement.textContent).toEqual('Testing framework showdown');
-    });
-
     it('should display 0 as initial value', () => {
       const fixture = TestBed.createComponent(AppComponent);
 
